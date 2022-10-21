@@ -1,2 +1,0 @@
-# NewCodingBot
-New repo
